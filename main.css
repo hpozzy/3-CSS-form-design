@@ -47,14 +47,17 @@ label {
 input:focus {
   outline: none;
   border: 2px solid black;
+  color: white;
 }
 
 textarea:focus {
   outline: none;
   border: 2px solid black;
+  color: white;
 }
 
 select:focus {
   outline: none;
   border: 2px solid black;
+  color: white;
 }
